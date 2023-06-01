@@ -19,7 +19,7 @@ Este projeto, desenvolvido durante o estágio em TI na Empresa John Deere Catal�
 ## Como Usar
 1. Clone o repositório do projeto.
 
-2. Execute o arquivo principal ProceduralSend.py para iniciar o programa.
+2. Execute o arquivo principal ProceduralSend.py para iniciar o programa. Vale ressaltar que o script irá ler as colunas pelo nome das mesmas definidas no programa, altere de acordo com sua necessidade.
 
 3. Utilize a interface gráfica fornecida pelo PySimpleGUI para interagir com o programa. Informe os dados necessários e clique nos botões apropriados para iniciar as operações desejadas.
 
